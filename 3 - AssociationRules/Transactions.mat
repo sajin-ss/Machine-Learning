@@ -1,0 +1,16 @@
+# Created by Octave 3.8.2, Mon Aug 15 23:37:40 2016 IST <sajin@sajin-HP-15-Notebook-PC>
+# name: Karate
+# type: matrix
+# rows: 9
+# columns: 5
+ 1 1 0 0 1
+ 0 1 0 1 0
+ 0 1 1 0 0
+ 1 1 0 1 0
+ 1 0 1 0 0
+ 0 1 1 0 0
+ 1 0 1 0 0
+ 1 1 1 0 1
+ 1 1 1 0 0
+
+
