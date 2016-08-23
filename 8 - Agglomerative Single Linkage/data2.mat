@@ -1,0 +1,26 @@
+# Created by Octave 3.8.2, Tue Aug 23 11:40:40 2016 IST <sajin@sajin-HP-15-Notebook-PC>
+# name: labels
+# type: sq_string
+# elements: 1
+# length: 12
+ABCDEFGHIJKL
+
+
+# name: points
+# type: matrix
+# rows: 12
+# columns: 2
+ 1 1
+ 2 1
+ 2 2
+ 4 5
+ 5 4
+ 5 5
+ 5 6
+ 6 5
+ 9 9
+ 10 9
+ 10 10
+ 11 9
+
+

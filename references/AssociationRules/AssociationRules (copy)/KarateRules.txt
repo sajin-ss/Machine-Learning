@@ -1,0 +1,7 @@
+Rule   (Support, Confidence) 
+Student5 -> Student1  (22.222%, 100%)
+Student4 -> Student2  (22.222%, 100%)
+Student5 -> Student2  (22.222%, 100%)
+Student5 -> Student1,Student2  (22.222%, 100%)
+Student1,Student5 -> Student2  (22.222%, 100%)
+Student2,Student5 -> Student1  (22.222%, 100%)
