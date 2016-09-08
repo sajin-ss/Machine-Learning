@@ -37,7 +37,7 @@ p = z;
 	if (y==1)
 
 		if (p!=z)
-			fprintf('\nLevel %d clusters : \n', mno)
+			fprintf('Level %d clusters : \n', mno)
 			mno++;
 		end
 
@@ -45,6 +45,10 @@ p = z;
 		clusters{index1} = union(clusters{index1}, clusters{index2});
 		clusters{index2} = union(clusters{index1}, clusters{index2});
 		clusters = unique(clusters);
+
+
+
+
 	else
 		z++;
 	end
